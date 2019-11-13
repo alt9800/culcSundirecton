@@ -1,8 +1,6 @@
-[submodule "greenwich/github.com/komasaru/mk_greenwich"]
-	path = greenwich/github.com/komasaru/mk_greenwich
+[submodule "greenwich"]
+	path = greenwich
 	url = https://github.com/komasaru/mk_greenwich.git
-	
-[submodule "eph_sun_moon/github.com/komasaru/mk_greenwich"]
-	path = eph_sun_moon/github.com/komasaru/mk_greenwich
+[submodule "eph_sun_moon"]
+	path = eph_sun_moon
 	url = https://github.com/komasaru/Calendar.git
-  
