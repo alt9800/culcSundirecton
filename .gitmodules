@@ -4,3 +4,6 @@
 [submodule "eph_sun_moon"]
 	path = eph_sun_moon
 	url = https://github.com/komasaru/Calendar.git
+[submodule "mk_greenwich"]
+	path = mk_greenwich
+	url = https://github.com/komasaru/greenwich_time.git
