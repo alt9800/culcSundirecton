@@ -28,7 +28,8 @@ Ruby2.6が入るunix系のOSで動きます。(winは今のところサポート
  3. `sh culcSundirecton.sh YYYYMMDDHHMMSS` を入力 (例:2019年11月12日14時24分30秒の太陽角度を計算したいなら引数は -> '20191112142430' とする)
  4. コンソールの標準出力、およびResultsディレクトリに結果がテキストで出力されます。
  
-// ここに動作イメージの画像を貼る
+[動作イメージ]
+![動作イメージ](https://github.com/alt9800/culcSundirecton/blob/master/動作イメージ.jpg "hoge")
 
 ## その他
 
