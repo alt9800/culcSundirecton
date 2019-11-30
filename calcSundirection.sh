@@ -1,4 +1,4 @@
-#!/bin/zsh
+#!/bin/sh
 #最初の二つのアプリは引数をYYYYMMDDHHMMSSで与える
 YYYYMMDDHHMMSS=$1 #文字列として時間を入れている
 ruby eph_sun_moon.rb $YYYYMMDDHHMMSS > tmpresult$YYYYMMDDHHMMSS.txt
