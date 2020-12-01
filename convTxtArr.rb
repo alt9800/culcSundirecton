@@ -4,9 +4,9 @@ require 'csv'
 #csvファイル読み込んで行単位で配列に格納
 #######
 
-
+newcosnt = ARGV[0] #filepath ex.na21-data.txt from https://www1.kaiho.mlit.go.jp/KOHO/
 s = []
-File.foreach("./na20-data.txt"){|line|
+File.foreach(newcosnt){|line|
   s << line.chomp.encode("UTF-8", "Shift_JIS")
 }
 
