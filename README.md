@@ -60,3 +60,10 @@ https://www.mk-mode.com/blog/2018/08/05/ruby-gmst-with-iau-1982/#
 https://eco.mtk.nao.ac.jp/cgi-bin/koyomi/cande/horizontal.cgi
 https://keisan.casio.jp/exec/system/1185781259
 http://park12.wakwak.com/~maki/lst.htm
+
+
+## todo
+
+- grapeでAPI化する
+- 暦の反映2021-2022
+
