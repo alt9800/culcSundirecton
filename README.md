@@ -25,7 +25,7 @@ Ruby2.6が入るunix系のOSで動きます。(winは今のところサポート
 
  1. このリポジトリをclone or DLする
  2. 起動前に`gem install mk_greenwich`をしておく
- 3. `sh culcSundirecton.sh YYYYMMDDHHMMSS` を入力 (例:2019年11月12日14時24分30秒の太陽角度を計算したいなら引数は -> '20191112142430' とする)
+ 3. `sh calcSundirection.sh YYYYMMDDHHMMSS` を入力 (例:2019年11月12日14時24分30秒の太陽角度を計算したいなら引数は -> '20191112142430' とする)
  4. コンソールの標準出力、およびResultsディレクトリに結果がテキストで出力されます。
  
 [動作イメージ]
